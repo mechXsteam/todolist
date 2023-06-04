@@ -83,9 +83,9 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'railway',
         'USER': 'postgres',
-        'PASSWORD': '7tB2pvkKrId1Zu5BICtw',
-        'HOST': 'containers-us-west-204.railway.app',
-        'PORT': '6021',
+        'PASSWORD': 'ghw3l3fHsqTR9VU982Iy',
+        'HOST': 'containers-us-west-86.railway.app',
+        'PORT': '6272',
     }
 }
 
